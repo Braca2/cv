@@ -1,0 +1,38 @@
+body {
+	background-color: darkgray;
+}
+
+.title {
+	font-family: Verdana;
+}
+
+.subtitle {
+	font-family: Tahoma;
+	color: lightyellow;
+}
+
+.sections {
+	margin-left: 30px;
+	padding: 5px;
+	float: right;
+}
+
+#perfil {
+	/* float: left; */
+}
+
+#contenido {
+	margin: 10px 15px 5px 5px;
+	/* float: right; */
+}
+
+li {
+	list-style-type: none;
+}
+
+a {}
+
+img {
+	height: 5cm;
+	width: 5cm;
+}
